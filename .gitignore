@@ -1,0 +1,9 @@
+
+# ignore emacs temporary files
+*~
+
+# ignore OSX temp files
+*.DS_Store
+
+# ignore the build directory
+.build
